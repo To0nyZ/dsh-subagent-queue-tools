@@ -1,0 +1,1 @@
+{"name":"dsh-subagent-queue-tools","version":"0.1.0","type":"module","description":"Host tools to steer subagents and clear their queued messages","main":"lib/index.js","dsh":{"bundle":{"host":true}},"peerDependencies":{"@deepseek-ai/cordis":"^4.0.1","@deepseek-ai/dsh-subagent":"^0.1.1-rc.2","@deepseek-ai/dsh-agent":"^0.1.1-rc.2"},"license":"MIT"}
